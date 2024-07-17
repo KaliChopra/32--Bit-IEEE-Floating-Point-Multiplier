@@ -47,7 +47,7 @@ The `Multiplication` module takes two 32-bit inputs (`a` and `b`) and produces a
 
 The `multiplication_tb` module provides a comprehensive test suite for the multiplier. It includes various test cases covering normal operations, edge cases, and special values.
 
-[Insert here: A flowchart or diagram illustrating the testbench process]
+[![Screenshot-2024-07-17-104319.png](https://i.postimg.cc/tCWnrf3G/Screenshot-2024-07-17-104319.png)](https://postimg.cc/bsYvrmVm)
 
 ## Usage
 
