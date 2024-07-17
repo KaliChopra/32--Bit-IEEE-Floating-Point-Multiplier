@@ -6,7 +6,8 @@ This project implements a 32-bit floating point multiplier following the IEEE 75
 
 The IEEE 754 standard defines the format and methods for floating-point arithmetic in computer systems. This multiplier operates on 32-bit single-precision floating-point numbers, providing accurate and standardized multiplication results.
 
-[![Architecture-of-32-bit-Single-Precision-Floating-Point-Multiplier.png](https://i.postimg.cc/1Xzy18Tq/Architecture-of-32-bit-Single-Precision-Floating-Point-Multiplier.png)](https://postimg.cc/qhWP8vpJ)
+[![The-proposed-architecture-for-32-bit-Floating-point-multiplier.png](https://i.postimg.cc/yNzBYQtB/The-proposed-architecture-for-32-bit-Floating-point-multiplier.png)](https://postimg.cc/Yv8Td3ty)
+
 ## Features
 
 - Multiplies two 32-bit floating-point numbers
@@ -18,7 +19,7 @@ The IEEE 754 standard defines the format and methods for floating-point arithmet
 
 ## Circuit Structure
 
-[Insert here: A detailed block diagram showing the main components of the multiplier]
+[![Architecture-of-32-bit-Single-Precision-Floating-Point-Multiplier.png](https://i.postimg.cc/1Xzy18Tq/Architecture-of-32-bit-Single-Precision-Floating-Point-Multiplier.png)](https://postimg.cc/qhWP8vpJ)
 
 The multiplier consists of the following main components:
 
