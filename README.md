@@ -30,8 +30,6 @@ The multiplier consists of the following main components:
 5. Rounding
 6. Exception handling
 
-[Insert here: Individual circuit diagrams or logic schematics for each of the above components]
-
 ## Module Structure
 
 The project consists of two main modules:
@@ -41,7 +39,7 @@ The project consists of two main modules:
 
 ### Multiplication Module
 
-[Insert here: A diagram showing the inputs and outputs of the Multiplication module]
+[![images.png](https://i.postimg.cc/C139mz00/images.png)](https://postimg.cc/HctSLWjv)
 
 The `Multiplication` module takes two 32-bit inputs (`a` and `b`) and produces a 32-bit output (`res`). It also outputs flags for exception, overflow, and underflow.
 
